@@ -1,0 +1,9 @@
+# Sensitive / local-only
+config.json
+
+# Python
+__pycache__/
+*.pyc
+
+# Generated output
+outputs/
